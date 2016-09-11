@@ -4,9 +4,9 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="/"/>
   <updated>2016-09-07T04:29:09.957Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>/</id>
   
   <author>
     <name>328452053.TK</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/07/hello-world/"/>
-    <id>http://yoursite.com/2016/09/07/hello-world/</id>
+    <link href="/2016/09/07/hello-world/"/>
+    <id>/2016/09/07/hello-world/</id>
     <published>2016-09-07T04:29:09.957Z</published>
     <updated>2016-09-07T04:29:09.957Z</updated>
     
