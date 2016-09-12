@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc></loc>
-        <changefreq>daily</changefreq>
-        <priority>1</priority>
-    </url>
 
     <url>
-        <loc>/2016/09/12/WeChat-Alipay-charges/</loc>
+        <loc>/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/</loc>
         <lastmod>2016-09-12T15:27:51.079Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
+        <priority>0.2</priority>
     </url>
 
     <url>
-        <loc>/2016/09/07/hello-world/</loc>
-        <lastmod>2016-09-12T13:37:58.071Z</lastmod>
+        <loc>/tags/%E5%BE%AE%E4%BF%A1/</loc>
+        <lastmod>2016-09-12T15:27:51.079Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
+        <priority>0.2</priority>
+    </url>
 
+    <url>
+        <loc>/tags/%E6%8F%90%E7%8E%B0%E6%94%B6%E8%B4%B9/</loc>
+        <lastmod>2016-09-12T15:27:51.079Z</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.2</priority>
     </url>
 
 </urlset>
