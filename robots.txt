@@ -1,0 +1,9 @@
+﻿User-agent: *
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/ 
+Disallow: /js/
+Disallow: /css/
+
+Sitemap: http://blog.328452053.tk/sitemap.xml
