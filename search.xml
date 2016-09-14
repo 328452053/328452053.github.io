@@ -4,6 +4,14 @@
   
     
     <entry>
+      <title><![CDATA[IOS 10技术故障，大量苹果用户设备变砖无法使用]]></title>
+      <url>/2016/09/14/IOS-10-technical-fault/</url>
+      <content type="html"><![CDATA[<p>9月14日消息，今日凌晨苹果开始向全世界推送IOS设备推送新版操作系统IOS 10，但新系统出现了技术故障，大量用户在社交网络<br>抱怨，苹果新系统让自己的苹果设备变砖无法使用。</p>
+<p><div align="center"><img src="/images/20160914.png" alt="“IOS 10技术故障，大量苹果用户设备变砖无法使用”"></div><br>苹果公司发言人在一份声明中表示：“在软件升级过程中，我们遭遇了一个短暂的问题，在推送第一个小时内影响了少数的用户。<br>这一问题已经被快速解决，我们向受影响的消费者道歉。”<br>苹果表示，所有受影响的用户应该连接iTunes完成这次系统升级，或是联系苹果售后服务寻求帮助。<br>据美国财经媒体CNBC的报道，根据苹果用户在社交网络上的抱怨，一些用户在升级到IOS系统后，被强制进入了恢复模式<br>（Recovery）。苹果团队建议用户手机连接电脑上的iTunes软件进行修复，但是许多手机用户手边并没有上网电脑。<br>目前苹果官方并未详细解释此次升级包中具体出现了怎样的问题。<br>今年年初，苹果的一个小错误同样引发了设备变砖无法使用的错误。如果用户将自己的苹果设备日期调整到1970年5月之前，重启<br>后苹果设备将无法工作。后来这一小故障引起了苹果公司的重视并解决了这个Bug。</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[微信，支付宝提现都收费了]]></title>
       <url>/2016/09/12/WeChat-Alipay-charges/</url>
       <content type="html"><![CDATA[<p>9月12日消息，支付宝今日对外发布公告，因综合经营成本上升，自2016年10月12日起，支付宝将对个人用户超出免费额度的提现<br>收取0.1%的服务费，个人用户每人累计享有2万元基础免费提现额度。</p>
@@ -13,7 +21,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2016/09/07/hello-world/</url>
+      <url>/2016/09/07/Hello-World/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check<br><a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the<br>answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on<br><a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>
