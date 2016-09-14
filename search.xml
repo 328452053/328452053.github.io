@@ -5,7 +5,7 @@
     
     <entry>
       <title><![CDATA[IOS 10技术故障，大量苹果用户设备变砖无法使用]]></title>
-      <url>/2016/09/14/IOS-10-technical-fault/</url>
+      <url>http://blog.328452053.tk/2016/09/14/IOS-10-technical-fault/</url>
       <content type="html"><![CDATA[<p>9月14日消息，今日凌晨苹果开始向全世界推送IOS设备推送新版操作系统IOS 10，但新系统出现了技术故障，大量用户在社交网络<br>抱怨，苹果新系统让自己的苹果设备变砖无法使用。</p>
 <p><div align="center"><img src="/images/20160914.png" alt="“IOS 10技术故障，大量苹果用户设备变砖无法使用”"></div><br>苹果公司发言人在一份声明中表示：“在软件升级过程中，我们遭遇了一个短暂的问题，在推送第一个小时内影响了少数的用户。<br>这一问题已经被快速解决，我们向受影响的消费者道歉。”<br>苹果表示，所有受影响的用户应该连接iTunes完成这次系统升级，或是联系苹果售后服务寻求帮助。<br>据美国财经媒体CNBC的报道，根据苹果用户在社交网络上的抱怨，一些用户在升级到IOS系统后，被强制进入了恢复模式<br>（Recovery）。苹果团队建议用户手机连接电脑上的iTunes软件进行修复，但是许多手机用户手边并没有上网电脑。<br>目前苹果官方并未详细解释此次升级包中具体出现了怎样的问题。<br>今年年初，苹果的一个小错误同样引发了设备变砖无法使用的错误。如果用户将自己的苹果设备日期调整到1970年5月之前，重启<br>后苹果设备将无法工作。后来这一小故障引起了苹果公司的重视并解决了这个Bug。</p>
 ]]></content>
@@ -13,7 +13,7 @@
     
     <entry>
       <title><![CDATA[微信，支付宝提现都收费了]]></title>
-      <url>/2016/09/12/WeChat-Alipay-charges/</url>
+      <url>http://blog.328452053.tk/2016/09/12/WeChat-Alipay-charges/</url>
       <content type="html"><![CDATA[<p>9月12日消息，支付宝今日对外发布公告，因综合经营成本上升，自2016年10月12日起，支付宝将对个人用户超出免费额度的提现<br>收取0.1%的服务费，个人用户每人累计享有2万元基础免费提现额度。</p>
 <p><div align="center"><img src="/images/20160912.jpg" alt="“微信，支付宝提现都收费了”"></div><br>支付宝这一公告一经发出，迅速在朋友圈引起极大反响。这是继微信支付之后，又一第三方支付平台开启转账收费模式。<br>今年2月15日，微信也曾发布公告，于3月1日起对微信用户提现功能收取手续费。每位用户终身享受1000元免费提现额度，超出部<br>分按银行费率收取手续费，目前费率均为0.1%，每笔最少收0.1元。<br>同微信支付提现收取手续费时一样，支付宝也为用户提供了降低成本的方式：即使用支付宝进行消费、理财、生活缴费、转账到支<br>付宝账户、信用卡还款等服务不受影响。特别需要说明的是，用户通过余额账户购买余额宝，在10月12日后赎回途径，也将限于赎<br>回到支付宝账户，不能赎回到银行卡。此外，用户累积的蚂蚁积分也可以兑换免费提现额度。目前，1个蚂蚁积分可以兑换1块钱的<br>免费提现额度。<br>在这样的情况下，用户如何既能够使用手机转账、提现，还能尽可能降低成本呢？目前来看，用户还有以下选择：<br>首先是用户熟悉的第三方支付平台。据悉，百度钱包余额提现目前仍然免费。<br>其次是手机银行。今年二月，工行、农行、中行、建行、交行五家银行联合宣布，陆续对客户通过手机银行办理的转账、汇款业务<br>免收手续费，无论跨行或异地；并承诺对客户5000元以下的境内人民币网上银行转账汇款免收手续费。不仅如此，光大银行、民生<br>银行等的手机银行始终采取转账汇款免费，招商银行在2015年9月就率先宣布网银、手机银行转账全免费。<br>综合来看，尽管各大银行网银转账免费，但这些银行推出的手机APP体验效果以及功能完善等方面还有待提高。随着支付宝、微信<br>支付都开始进入收费时代，业内人士称第三方支付机构收费将是必然趋势。</p>
 ]]></content>
@@ -21,7 +21,7 @@
     
     <entry>
       <title><![CDATA[Hello World]]></title>
-      <url>/2016/09/07/Hello-World/</url>
+      <url>http://blog.328452053.tk/2016/09/07/Hello-World/</url>
       <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check<br><a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the<br>answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on<br><a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.<br><a id="more"></a></p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><div class="line">1</div></pre></td><td class="code"><pre><div class="line">$ hexo new <span class="string">"My New Post"</span></div></pre></td></tr></table></figure>
 <p>More info: <a href="https://hexo.io/docs/writing.html" target="_blank" rel="external">Writing</a></p>

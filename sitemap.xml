@@ -2,22 +2,22 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <sitemap>
-        <loc>/post-sitemap.xml</loc>
+        <loc>http://blog.328452053.tk/post-sitemap.xml</loc>
         <lastmod>2016-09-14T14:48:42.474Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>/page-sitemap.xml</loc>
+        <loc>http://blog.328452053.tk/page-sitemap.xml</loc>
         <lastmod>2016-09-12T11:38:40.382Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>/category-sitemap.xml</loc>
+        <loc>http://blog.328452053.tk/category-sitemap.xml</loc>
         <lastmod>2016-09-14T14:48:42.474Z</lastmod>
     </sitemap>
 
     <sitemap>
-        <loc>/tag-sitemap.xml</loc>
+        <loc>http://blog.328452053.tk/tag-sitemap.xml</loc>
         <lastmod>2016-09-14T14:46:06.769Z</lastmod>
     </sitemap>
 
