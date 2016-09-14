@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>BLOG.328452053.TK</title>
+  <title>328452053.TK</title>
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://blog.328452053.tk/"/>
+  <link href="http://328452053.TK/"/>
   <updated>2016-09-14T14:46:06.769Z</updated>
-  <id>http://blog.328452053.tk/</id>
+  <id>http://328452053.TK/</id>
   
   <author>
     <name>328452053.TK</name>
@@ -17,8 +17,8 @@
   
   <entry>
     <title>IOS 10技术故障，大量苹果用户设备变砖无法使用</title>
-    <link href="http://blog.328452053.tk/2016/09/14/IOS-10-technical-fault/"/>
-    <id>http://blog.328452053.tk/2016/09/14/IOS-10-technical-fault/</id>
+    <link href="http://328452053.TK/2016/09/14/IOS-10-technical-fault/"/>
+    <id>http://328452053.TK/2016/09/14/IOS-10-technical-fault/</id>
     <published>2016-09-14T14:35:00.000Z</published>
     <updated>2016-09-14T14:46:06.769Z</updated>
     
@@ -32,19 +32,19 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://blog.328452053.tk/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://328452053.TK/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="IOS" scheme="http://blog.328452053.tk/tags/IOS/"/>
+      <category term="IOS" scheme="http://328452053.TK/tags/IOS/"/>
     
-      <category term="故障" scheme="http://blog.328452053.tk/tags/%E6%95%85%E9%9A%9C/"/>
+      <category term="故障" scheme="http://328452053.TK/tags/%E6%95%85%E9%9A%9C/"/>
     
   </entry>
   
   <entry>
     <title>微信，支付宝提现都收费了</title>
-    <link href="http://blog.328452053.tk/2016/09/12/WeChat-Alipay-charges/"/>
-    <id>http://blog.328452053.tk/2016/09/12/WeChat-Alipay-charges/</id>
+    <link href="http://328452053.TK/2016/09/12/WeChat-Alipay-charges/"/>
+    <id>http://328452053.TK/2016/09/12/WeChat-Alipay-charges/</id>
     <published>2016-09-12T15:03:35.000Z</published>
     <updated>2016-09-14T14:48:42.474Z</updated>
     
@@ -58,21 +58,21 @@
     
     </summary>
     
-      <category term="资讯" scheme="http://blog.328452053.tk/categories/%E8%B5%84%E8%AE%AF/"/>
+      <category term="资讯" scheme="http://328452053.TK/categories/%E8%B5%84%E8%AE%AF/"/>
     
     
-      <category term="支付宝" scheme="http://blog.328452053.tk/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
+      <category term="支付宝" scheme="http://328452053.TK/tags/%E6%94%AF%E4%BB%98%E5%AE%9D/"/>
     
-      <category term="微信" scheme="http://blog.328452053.tk/tags/%E5%BE%AE%E4%BF%A1/"/>
+      <category term="微信" scheme="http://328452053.TK/tags/%E5%BE%AE%E4%BF%A1/"/>
     
-      <category term="提现收费" scheme="http://blog.328452053.tk/tags/%E6%8F%90%E7%8E%B0%E6%94%B6%E8%B4%B9/"/>
+      <category term="提现收费" scheme="http://328452053.TK/tags/%E6%8F%90%E7%8E%B0%E6%94%B6%E8%B4%B9/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://blog.328452053.tk/2016/09/07/Hello-World/"/>
-    <id>http://blog.328452053.tk/2016/09/07/Hello-World/</id>
+    <link href="http://328452053.TK/2016/09/07/Hello-World/"/>
+    <id>http://328452053.TK/2016/09/07/Hello-World/</id>
     <published>2016-09-07T04:29:09.957Z</published>
     <updated>2016-09-12T13:37:58.071Z</updated>
     
