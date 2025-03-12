@@ -1,0 +1,11 @@
+{
+	name: 'PJBlog5内测主题之默认主题V1.0',
+	author: '沈赟杰',
+	mail: 'evio@vip.qq.com',
+	site: 'http://webkits.cn',
+	des: '内测时候的默认主题，经过修改，没有任何插件。',
+	shortpreview: 'logo.jpg',
+	bigpreview: 'preview.jpg',
+	mark: '5dad3e616e98df9867186a4563bccc1cb2e998ca',
+	version: 1
+}
